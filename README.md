@@ -1,0 +1,2 @@
+# lightoj
+My Lightoj solution
