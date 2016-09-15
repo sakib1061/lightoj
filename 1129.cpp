@@ -39,6 +39,7 @@ bool search(string str,int len)
 
         if(curr->next[i])
             return 1;
+}
 	return 0;
 }
 void del(node *cur)
